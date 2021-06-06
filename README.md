@@ -3,4 +3,4 @@
 
 - 🔭 I’m currently working as Backend Development Engineer
 - 🌱 It's always nice to learn more and more so, I'm always improving my skills in mobile, backend, data engineering and data science development.
-- 📫 How to reach me: linkedin.com/saulotdr
+- 📫 Reach me on my [Linkedin profile](https://br.linkedin.com/in/saulotdr)
